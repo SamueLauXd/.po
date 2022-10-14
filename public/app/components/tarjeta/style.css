@@ -1,0 +1,11 @@
+* {
+    padding: auto;
+    margin: auto;
+}
+
+.contenedor {
+    position: relative;
+    width: 200px;
+    border-radius: 10px;
+    background-color: aqua;
+}
